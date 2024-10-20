@@ -5,7 +5,3 @@ markov = Markov("Data.csv")
 print("--------------------------")
 # Printing the optimal policy
 print(markov.optPol)
-
-
-
-
